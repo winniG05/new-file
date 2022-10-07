@@ -1,0 +1,19 @@
+{
+  "blogs":[ 
+    { 
+  "title":"My first blog",
+  "body":"this is a blog about a lot of things.it can be usefull in many areas in our careers .if you what to learn more about it , join our tutorial ",
+  "author":"maria",
+  "id":2
+},
+{ 
+  "title":"My first blog",
+  "body":"this is a blog about a lot of things.it can be usefull in many areas in our careers .if you what to learn more about it , join our tutorial ",
+  "author":"maria",
+  "id":2
+}
+
+
+]
+}
+
